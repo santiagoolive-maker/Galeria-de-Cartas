@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.carta img {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin: 0 auto;
+}
+
+.carta h2 {
+    color: #444;
+}
+
+.carta p {
+    text-align: left;
+    line-height: 1.5;
+    color: #555;
+    max-width: 700px;
+    margin: 10px auto;
+}
